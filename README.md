@@ -12,7 +12,7 @@ Projeto para recriar uma aplicação, a partir de um layout pronto no Figma, 
 <br>
 
 <p align="center">
-  <img alt="projeto Flutuar" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Flutuar" src="./.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
