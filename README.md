@@ -12,7 +12,7 @@ Projeto para recriar uma aplicação, a partir de um layout pronto no Figma, 
 <br>
 
 <p align="center">
-  <img alt="projeto Flutuar" src="./.github/preview.jpg" width="100%">
+  <img alt="projeto Flutuar" src=".github/Preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://pedrohfaig.github.io/NLWSetup---Habits/)
+- [Visite o projeto online](https://pedrohfaig.github.io/Recriando-Flutuar/)
 
 
 ---
